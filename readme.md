@@ -6,26 +6,26 @@
 
 ## Description
 
-_This simple web app will take a word and return the score in scrabble of that word. It was built using Silex, Twig, and PhpUnit._
+This simple web app will take a word and return the score in scrabble of that word. It was built using Silex, Twig, and PhpUnit.
 
 ## Setup/Installation Requirements
 
-1. _Fork and clone this repository from_ [gitHub](https://github.com/MBAllely/scrabble.git).
-2. Navigate to the root directory of the project in which ever CLI shell you are using and run the command: __composer install__ .
+1. Fork and clone this repository from_ [gitHub](https://github.com/MBAllely/scrabble.git).
+2. Navigate to the root directory of the project in which ever CLI shell you are using and run the command: __composer install__ _.
 3. Create a local server in the /web directory within the project folder using the command: __php -S localhost:8000__ (assuming you are using a mac).
 4. Open the directory http://localhost:8000 in any standard web browser.
 
 ## Known Bugs
 
-_No known bugs at this time._
+No known bugs at this time.
 
 ## Support and contact details
 
-_If you have any questions, concerns, or feedback, please contact the author through_ [gitHub](https://github.com/MBAllely/scrabble.git).
+If you have any questions, concerns, or feedback, please contact the author through [gitHub](https://github.com/MBAllely/scrabble.git).
 
 ## Technologies Used
 
-_This web application was created using the_  [Silex micro-framework](http://silex.sensiolabs.org/)_, as well _[Twig](http://twig.sensiolabs.org/), a template engine for php.
+This web application was created using the  [Silex micro-framework](http://silex.sensiolabs.org/), as well [Twig](http://twig.sensiolabs.org/), a template engine for php.
 
 ### License
 
