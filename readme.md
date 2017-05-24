@@ -1,8 +1,8 @@
-# _Scrabble Score_
+# Scrabble Score
 
-#### _Find the score of a word in Scrabble, 2.18.2016_
+#### Find the score of a word in Scrabble, 2.18.2016
 
-### By _**Joseph Karasek and Marika Allely**_
+### By **Joseph Karasek and Marika Allely**
 
 ## Description
 
@@ -10,8 +10,8 @@ This simple web app will take a word and return the score in scrabble of that wo
 
 ## Setup/Installation Requirements
 
-1. Fork and clone this repository from_ [gitHub](https://github.com/MBAllely/scrabble.git).
-2. Navigate to the root directory of the project in which ever CLI shell you are using and run the command: __composer install__ _.
+1. Fork and clone this repository from [gitHub](https://github.com/MBAllely/scrabble.git).
+2. Navigate to the root directory of the project in which ever CLI shell you are using and run the command: __composer install__.
 3. Create a local server in the /web directory within the project folder using the command: __php -S localhost:8000__ (assuming you are using a mac).
 4. Open the directory http://localhost:8000 in any standard web browser.
 
